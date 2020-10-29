@@ -1,0 +1,52 @@
+{
+    "characters": [
+      {
+        "id": 1,
+        "name": "Garou",
+        "motto": "Pondré mi vida en riesgo para eliminar la justicia. ¡NUNCA PODRÁS DETENER ESTE 'JUEGO' DE MONSTRUOS!",
+        "img": "https://static.wikia.nocookie.net/characterprofile/images/b/b2/Hisoka1.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "Prisionero Lindo Lindo",
+        "motto": "Una reina majestuosa bajo el intenso calor del verano.",
+        "img": "https://static.wikia.nocookie.net/characterprofile/images/8/83/BoFIV_Ryu_Artwork.webp5"
+      },
+      {
+        "id": 3,
+        "name": "Saitama",
+        "motto": "Si los héroes huyen, ¿quién ayudará?",
+        "img": "https://static.wikia.nocookie.net/characterprofile/images/1/13/CuddlesProfilePictureImageZ.png"
+      },
+      {
+        "id": 4,
+        "name": "Metal Knight",
+        "motto": "Aquel que busca justicia cabalga solo",
+        "img": "https://static.wikia.nocookie.net/characterprofile/images/a/ac/Shoto_Todoroki%2C_the_Son_of_Endeavor.png"
+      },
+      {
+        "id": 5,
+        "name": "King",
+        "motto": "Ser humano es ser un viajero eterno... Depende de ti descubrir las nuevas vistas de la vida... ¡Nadie más despejará el camino!",
+        "img": "https://static.wikia.nocookie.net/characterprofile/images/2/27/Saitama.png"
+      },
+      {
+        "id": 6,
+        "name": "Sonic",
+        "motto": "Si antes de luchar ya has perdido, no importa cuántas veces lo intentes, el resultado no cambiará",
+        "img": "https://static.wikia.nocookie.net/characterprofile/images/7/7b/Eijiro_Kirishima%2C_the_Vigor_Hero.png"
+      },
+      {
+        "id": 7,
+        "name": "Mumen Rider",
+        "motto": "¡Sé que soy débil! ¡Sé mejor que nadie que no tengo oportunidad de vencerte! Pero tengo que intentarlo. ¡No se trata de ganar o perder! ¿¡Si yo no me enfrento a tí, quién lo hará!?",
+        "img": "https://static.wikia.nocookie.net/characterprofile/images/a/ac/Aizawa.png"
+      },
+      {
+        "id": 8,
+        "name": "Genos",
+        "motto": "Si no va a cambiar el resultado, ¿cómo dejaría que mi última acción sea menos que todo lo que puedo hacer?",
+        "img": "https://static.wikia.nocookie.net/characterprofile/images/9/98/Izuku_midoriya_hero_costume_gamma_action_pose.png"
+      }
+    ]
+}
